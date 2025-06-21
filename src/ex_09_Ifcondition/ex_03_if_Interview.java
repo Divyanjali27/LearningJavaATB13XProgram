@@ -1,0 +1,13 @@
+package ex_09_Ifcondition;
+
+public class ex_03_if_Interview {
+    public static void main(String[] args) {
+
+            int a = 10;
+            if (a == 4) {
+                System.out.println("haha");
+            } else {
+                System.out.println("hoho");
+            }
+    }
+}
